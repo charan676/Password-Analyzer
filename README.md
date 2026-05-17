@@ -32,8 +32,3 @@ Run the script and follow the prompts to analyze passwords or generate new secur
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-Save the file
-Commit and push the changes:
-git add README.md
-git commit -m "Add README file"
-git push
